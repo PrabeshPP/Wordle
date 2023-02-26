@@ -1,6 +1,6 @@
 package com.example.wordle
 
-class FourLetterWordList {
+object FourLetterWordList {
     // This code was copy and paster
 
     // List of most common 4 letter words from: https://7esl.com/4-letter-words/
